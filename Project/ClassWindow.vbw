@@ -1,0 +1,11 @@
+Class_Application = 22, 22, 757, 477, 
+Class_Button = 44, 44, 779, 499, 
+Class_Form = 66, 66, 799, 521, 
+Class_Main = 154, 154, 887, 609, Z
+Class_MenuItem = 0, 0, 0, 0, C
+Class_MenuItems = 0, 0, 0, 0, C
+Class_MenuManage = 88, 88, 821, 543, 
+Class_Screen = 110, 110, 843, 565, 
+Class_SubClass = 132, 132, 865, 587, 
+ModuleMain = 0, 0, 0, 0, C
+ModuleTrusteeship = 0, 0, 0, 0, C
